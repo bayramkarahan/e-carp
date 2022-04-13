@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=E-Carp Application
+Name[tr]=E-Carp Uygulaması
+Type=Application
+Comment=Simple Qt based E-Carp Application
+Comment[tr]=Basit Qt tabanlı E-Carp Uygulaması
+Terminal=false
+Exec=/usr/bin/e-carp
+Icon=/usr/share/e-carp/e-carp.svg
+Categories=Qt;Game;LogicGame;
+Keywords=oyun;carp;mul;
+GenericName=E-Carp
